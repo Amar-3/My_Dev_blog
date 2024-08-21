@@ -1,0 +1,33 @@
+.parent{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.temp{
+    display: flex;
+    
+    padding: 3px;
+   
+    
+}
+table {
+    border: solid black 3px;
+    padding: 3px;
+}
+
+td{
+    text-align: center;
+    padding: 3px;
+    text-decoration: none;
+    border: solid black 3px;
+}
+.div1{
+    background-color: blue;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 3px;
+    margin-right: 10px;
+    max-width: 69%;
+}
+.div2{
+    max-width: 100/3%;
+}
