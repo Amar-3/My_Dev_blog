@@ -1,1 +1,3 @@
 this i'm in branch 2
+renamed to renamed_branch by command  git branch -m <newName>
+Deleted branch branch3 (was 5f7b99a).  cmd  git branch -d branch3
